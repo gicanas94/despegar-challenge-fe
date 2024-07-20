@@ -1,23 +1,23 @@
-# Ejercicio de Despegar.com (front-end)
+# Despegar interview challenge (front-end)
 
-Front-end desarrollado en React.js correspondiente al ejercicio de Despegar.com. Este repo usa la versión 10.15.1 de Node.js.
+Developed in React.js. This repo uses Node.js version 10.15.1.
 
-**1.** Clonar el repo:
+**1.** Clone the repo:
 
 ```
-$ git clone git@github.com:gicanas94/ejercicio-despegar-front.git
-$ cd ejercicio-despegar-front
+$ git clone git@github.com:gicanas94/despegar-challenge-fe.git
+$ cd despegar-challenge-fe
 ```
 
-**2.** Instalar dependencias:
+**2.** Install dependencies:
 
 ```
 $ npm install
 ```
 
-**3.** Instalar las extensiones necesarias de ESLint en tu IDE.
+**3.** Install the necessary ESLint extensions in your IDE.
 
-**4.** Ejecutar la aplicación:
+**4.** Run the application:
 
 ```
 $ npm start

@@ -1,6 +1,6 @@
 # Despegar interview challenge (front-end)
 
-Developed in React.js. This repo uses Node.js version 10.15.1.
+Despegar interview challenge developed in React.js. This repo uses Node.js version 10.15.1.
 
 **1.** Clone the repo:
 
